@@ -1,0 +1,5 @@
+{
+  "name": "Copy of UAE Maliyet & Satış Fiyatı Simülatörü",
+  "description": "Kullanıcı tarafından girilen değişkenlere göre ithalat maliyetlerini hesaplayan ve nihai satış fiyatını simüle eden bir web uygulaması.",
+  "requestFramePermissions": []
+}
