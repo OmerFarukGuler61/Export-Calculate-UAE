@@ -14,12 +14,14 @@
     "lucide-react": "^0.284.0",
     "recharts": "^2.9.0",
     "clsx": "^2.0.0",
-    "tailwind-merge": "^1.14.0"
+    "tailwind-merge": "^1.14.0",
+    "uuid": "^9.0.1" 
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
+    "@types/uuid": "^9.0.7",
     "@vitejs/plugin-react": "^4.0.3",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
